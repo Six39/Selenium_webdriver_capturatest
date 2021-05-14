@@ -2,7 +2,7 @@
 Captura de pantalla de sitio web
 
 Programa generado con python y el webdrive de selenium para google chrome. 
-Diseñado para windows
+Diseñado para windows // Respaldo de mi cuenta anterior
 
 Función:
 
